@@ -20,3 +20,4 @@ for page in doc:
 
 # chunk it
 chunks = split_into_chunks(full_text)
+
