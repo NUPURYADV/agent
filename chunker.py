@@ -20,7 +20,3 @@ for page in doc:
 
 # chunk it
 chunks = split_into_chunks(full_text)
-
-print(f"Total chunks: {len(chunks)}")
-print(f"\nChunk 1:\n{chunks[0]}")
-print(f"\nChunk 2:\n{chunks[1]}")
